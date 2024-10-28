@@ -1,4 +1,4 @@
-# Wet en regelgeving Groningen Roleplay
+# Wet en regelgeving Weekly Roleplay
 
 ## Development
 

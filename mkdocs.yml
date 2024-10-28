@@ -1,18 +1,18 @@
 # Project information
-site_name: Groningen Roleplay wet en regelgeving
-site_url: 'https://wetboek.groningenroleplay.com/'
-site_description: 'Wet en regelgeving van Groningen Roleplay roleplay'
-site_author: 'Groningen Roleplay'
+site_name: Weekly Roleplay wet en regelgeving
+site_url: 'https://wetboek.Weeklyroleplay.com/'
+site_description: 'Wet en regelgeving van Weekly Roleplay roleplay'
+site_author: 'Weekly Roleplay'
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Groningen Roleplay
+copyright: Copyright &copy; 2019 - 2022 Weekly Roleplay
 
 # Repository
-repo_url: 'https://github.com/groningen-rp/wet-en-regelgeving/'
-repo_name: 'groningen-rp/wetboek'
+repo_url: 'https://github.com/Weekly-rp/wet-en-regelgeving/'
+repo_name: 'Weekly-rp/wetboek'
 edit_uri: 'edit/pre-release/docs/'
 
-google_analytics: ['UA-167800475-3', 'wetboek.groningenroleplay.com']
+google_analytics: ['UA-167800475-3', 'wetboek.Weeklyroleplay.com']
 
 # Congiguration
 theme:
