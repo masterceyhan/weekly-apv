@@ -1,24 +1,24 @@
-# Algemene Plaatselijke Verordening Weekly Roleplay
+# Algemene Plaatselijke Verordening Amsterdam Roleplay
 
 ## Wetstechnische informatie
 
 | | |
 |---|---|
-| Overheidsorganisatie      | Hoge Raad Weekly Roleplay |
-| Officiële naam regeling   | Algemene Plaatselijke Verordening Weekly Roleplay|
-| Citeertitel               | Algemene Plaatselijke Verordening Weekly Roleplay|
+| Overheidsorganisatie      | Hoge Raad Amsterdam Roleplay |
+| Officiële naam regeling   | Algemene Plaatselijke Verordening Amsterdam Roleplay|
+| Citeertitel               | Algemene Plaatselijke Verordening Amsterdam Roleplay|
 | Vastgesteld door          | De Hoge Raad|
 | Onderwerp                 | Openbare orde en veiligheid|
 
 ### Opmerkingen met betrekking tot de verordening
 
-Het Wetboek van Strafrecht, specifiek bedoeld voor Weekly Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
+Het Wetboek van Strafrecht, specifiek bedoeld voor Amsterdam Roleplay, wordt hierbij ingetrokken en vervangen door deze APV.
 
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
 
-1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Weekly Roleplay.
+1. Deze Algemene Plaatselijke Verordening (verder aangeduid als APV) is bedoeld als aanvulling op het Nederlands Recht en heeft betrekking op het eiland, de gemeente, en de stad Amsterdam Roleplay.
 2. De APV biedt een indicerend kader voor eventuele bestraffing in-game (“in RP”), maar is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
@@ -119,7 +119,7 @@ celstraf.
 
 4. Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken, zonder dat hier toestemming is voor gegeven vanuit staff (denk hierbij aan het gebruik van sheets en andere onderlinge zaken) hierbij geldt de straf van lid 3. Eigenaren van externe discords waarin meta-gaming voorkomt, zullen een straf ontvangen volgens de 7e categorie.
 
-5. Wanneer je met meerdere mensen die op Weekly Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
+5. Wanneer je met meerdere mensen die op Amsterdam Roleplay spelen in een voicecall zit, is streamen niet toegestaan en moet je gedeafened en gemute zijn. Als één persoon in-game is en de rest niet en je besluit om alsnog in een call te zitten zonder dat je gedeafened/gemute bent, ben je dus ook in overtreding van deze regel die aangeduid zijn in lid 3
 
 6. Het streamen van de main server in een discord server is nooit toegestaan, tenzij je expliciet toestemming hebt van een stafflid.
 
@@ -130,7 +130,7 @@ celstraf.
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
 2. Er wordt geacht dat de kleding wordt gedragen die is verstrekt door de baas voor het uitvoeren van het beroep.
 3. Hij/zij die als niet ambtenaar kleding draagt van één van de overheidsbanen is verboden, tenzij er een goede roleplay aan vast zit, welke goedgekeurd is door een stafflid
-4. Officiële kleding verstrekt vanuit Weekly Roleplay bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
+4. Officiële kleding verstrekt vanuit Amsterdam Roleplay bedoeld voor specifieke groeperingen mag niet door anderen gebruikt worden of als starters kleding gekozen worden, tenzij hier een sterke roleplay aan verbonden is.
 
    *Mocht staff dit zien zal hij/zij hierop een mondelinge waarschuwing geven om dit aan te passen, mocht dit niet gedaanw orden zal er een straf uitgedeeld worden volgens de 1e categorie.
 
@@ -324,7 +324,7 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Weekly Roleplay met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
+4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Amsterdam Roleplay met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
 5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
 
 *Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
@@ -405,4 +405,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---------------------
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Weekly Roleplay”, opgetekend door Bram Mosterdfiets, te Weekly Roleplay.
+APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad Amsterdam Roleplay”, opgetekend door Bram Mosterdfiets, te Amsterdam Roleplay.

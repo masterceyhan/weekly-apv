@@ -1,4 +1,4 @@
-# Wet en regelgeving Weekly Roleplay
+# Wet en regelgeving Amsterdam Roleplay
 
 ## Development
 

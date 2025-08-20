@@ -1,18 +1,18 @@
 # Project information
-site_name: Weekly Roleplay wet en regelgeving
-site_url: 'https://wetboek.Weeklyroleplay.com/'
-site_description: 'Wet en regelgeving van Weekly Roleplay roleplay'
-site_author: 'Weekly Roleplay'
+site_name: Amsterdam Roleplay wet en regelgeving
+site_url: 'https://wetboek.amsterdamroleplay.com/'
+site_description: 'Wet en regelgeving van Amsterdam Roleplay roleplay'
+site_author: 'Amsterdam Roleplay'
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Weekly Roleplay
+copyright: Copyright &copy; 2019 - 2025 Amsterdam Roleplay
 
 # Repository
-repo_url: 'https://github.com/Weekly-rp/wet-en-regelgeving/'
-repo_name: 'Weekly-rp/wetboek'
+repo_url: 'https://github.com/Amsterdam-rp/wet-en-regelgeving/'
+repo_name: 'Amsterdam-rp/wetboek'
 edit_uri: 'edit/pre-release/docs/'
 
-google_analytics: ['UA-167800475-3', 'wetboek.Weeklyroleplay.com']
+google_analytics: ['UA-167800475-3', 'wetboek.Amsterdamroleplay.com']
 
 # Congiguration
 theme:
